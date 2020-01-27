@@ -1,0 +1,43 @@
+-- JASON ELLSWORTH DEVELOPMENT WEBSITE NOTES --
+-- This is the new and improved portfolio website, 2.0! --
+-- Below are notes for implimenting the website --
+
+-- HTML landing page
+
+    - main heading area
+        + include site name (Jason Ellsworth) and sub line
+        + include interactive button that moves the veiw box into the about section
+          and start of website proper
+
+    - About me (website proper)
+        + NAV bar should pop up!
+        + A short about myself section and rounded image of myself
+
+    - portfolio 
+        + about four completed projects seperated into boxes
+
+    - contact
+        + simple contact form
+            - name
+            - company (if any)
+            - project
+            - email
+
+    - footer
+        + whatever other need to know information
+        + linkdin, facebook, git hub image links.
+
+-- CSS section
+
+    - colors
+        + #90AFC5
+        + #336B87
+        + #2A3132
+        + #763626
+
+
+    -Main heading area
+        + Background image taking up full screen
+        + main text centered at the top
+        + Reactive!
+    
