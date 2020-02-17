@@ -30,6 +30,7 @@
 -- CSS section
 
     - colors
+        + #fff
         + #90AFC5
         + #336B87
         + #2A3132
